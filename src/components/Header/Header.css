@@ -1,0 +1,29 @@
+.header{
+    padding: 12px 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color:  #4BADF4;
+
+}
+
+.header-name{
+
+    margin-left: 24px;
+}
+.header-logo{
+    margin-right: 24px;
+}
+
+.header-logo img{
+   
+    max-width: 120px;
+    max-height: 120px;
+}
+
+@media (max-width: 600px) {
+    .header{
+        gap:36px
+    }
+}

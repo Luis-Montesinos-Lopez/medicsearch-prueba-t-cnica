@@ -1,0 +1,48 @@
+.logo img {
+    width: 100%;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 16px;
+    padding: 16px;
+   
+}
+.tittle{
+    margin-bottom: 32px;
+    text-align: center;
+}
+
+.search-body{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.search-area{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 16px;
+    max-width: 600px;
+    width: 100%;
+}
+.search-button{
+    height: 60px;
+}
+
+.error{
+    text-align: center;
+    margin-top: 16px;
+}
+
+@media (max-width: 600px) {
+   .tittle{
+    text-wrap: nowrap;
+   }
+}
