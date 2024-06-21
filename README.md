@@ -62,8 +62,27 @@ npm run dev
 El programa se iniciará en el puerto:
 
 ```
-http://localhos:5173
+http://localhost:5173
 ```
+
+## Estructura del proyecto
+
+El proyecto está organizado de la siguiente manera:
+
+* src/assets/: Contiene los recursos estáticos como imágenes.
+
+* src/assets/img/: Contiene las imágenes del proyecto.
+
+* src/components/: Componentes reutilizables de la interfaz de usuario.
+
+* src/interfaces/: Definiciones de tipos e interfaces TypeScript.
+
+* src/views/: Vistas principales de la aplicación.
+
+* src/App.tsx: Componente raíz de la aplicación.
+
+* src/main.tsx: Punto de entrada de la aplicación.
+
 
 ## Contacto
 
