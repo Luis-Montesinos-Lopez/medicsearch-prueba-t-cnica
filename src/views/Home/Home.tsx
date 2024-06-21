@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { ChangeEvent, useState } from "react";
 import HomeView from "./HomeView";
 
 export default function Home() {
@@ -7,7 +7,7 @@ export default function Home() {
   const [error, setError] = useState("");
   const [loading, setLoading] = useState(false);
 
-  function handlechange(e) {
+  function handlechange(e: ChangeEvent<HTMLInputElement>) {
     setSearch(e.target.value);
   }
 
