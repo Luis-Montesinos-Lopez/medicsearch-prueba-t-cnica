@@ -1,7 +1,7 @@
 <h1 align="center">MedicSearch</h1>
 
 <p align="center">
-  <img src="src/assets/img/MedicSearchLogoBlanco.png" alt="Logo del Proyecto" />
+  <img src="src/assets/img/MedicalSearchLogo.jpeg" alt="Logo del Proyecto" />
 </p>
 
 <p align="center">Este proyecto es una aplicación web que permite a los usuarios buscar y visualizar información detallada sobre medicamentos. Utiliza la API de la FDA para obtener datos actualizados y completos sobre medicamentos específicos.</p>
@@ -40,8 +40,7 @@ Sigue estos pasos para descargar e instalar el proyecto en tu máquina local.
 ### Clonar el Repositorio
 
 ```
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/Luis-Montesinos-Lopez/medicsearch-prueba-tecnica.git
 ```
 
 ### Instalar dependencias
@@ -68,7 +67,7 @@ http://localhos:5173
 
 ## Contacto
 
-Si tenéis alguna duda no dudéis en contactarme a través del correo
+Si tenéis alguna duda no dudéis en contactarme a través del correo:
 
 ```
  luismontesinoslopez@gmail.com
